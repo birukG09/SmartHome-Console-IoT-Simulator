@@ -1,0 +1,6 @@
+{"action":"command","target":"all","name":"ping"}
+{"action":"command","target":"js-light-1","name":"toggle"}
+{"action":"command","target":"js-light-1","name":"set_brightness","params":{"value":25}}
+{"action":"command","target":"go-thermo-1","name":"set_temp","params":{"value":24}}
+{"action":"command","target":"java-lock-1","name":"unlock"}
+{"action":"command","target":"java-lock-1","name":"lock"}

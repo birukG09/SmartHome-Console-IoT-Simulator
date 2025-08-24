@@ -1,0 +1,14 @@
+# Example device definitions (informational; hub does not parse this yet)
+hub:
+  host: 127.0.0.1
+  port: 5051
+
+devices:
+  - id: py-env-1
+    type: env-sensor
+  - id: go-thermo-1
+    type: thermostat
+  - id: js-light-1
+    type: lightbulb
+  - id: java-lock-1
+    type: door-lock
