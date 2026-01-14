@@ -6,7 +6,7 @@ languages (Python, Go, Node.js, Java) can talk to a central **Hub**.
 
 - **Focus**: simple console UX + ASCII dashboard, zero external deps.
 - **IPC**: plain TCP on `127.0.0.1:5051` with NDJSON messages.
-- **Devices**: Python Sensor, Go Thermostat, Node.js Lightbulb, Java Door Lock.
+- **Devices**: Python Sensor, Go Thermostat, Node.js Lightbulb, Java Door  Lock.
 - **Recorder**: Python client that subscribes to telemetry and writes CSV logs.
 - **Exactly 20 files**: project kept lean for clarity and portability.
 
