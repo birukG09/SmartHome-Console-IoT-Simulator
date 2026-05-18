@@ -94,7 +94,7 @@ Targets may also be `"all"`.
 20 devices/python/sensor.py
 ```
 
-## Running commands
+## Running commandss
 Inside the hub console, type:
 - `help` — show help
 - `list` — list devices
